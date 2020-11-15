@@ -5,6 +5,6 @@ logo: /images/person.png
 title: Welcome to LinZhao's homepage
 autor: Lin Zhao
 
-animal:
-  - cat
-  - dog
+# _config.yml
+animal: pets
+hash: { name: Steve, foo: bar }
