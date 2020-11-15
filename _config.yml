@@ -4,3 +4,8 @@ description: Feel free to bookmark this to keep an eye on my project updates!
 logo: /images/person.png
 autor: Lin Zhao
 about: Windows 10 App Developer
+
+allowsearch: false
+
+enableTags: true
+tagarray: [aricles]
