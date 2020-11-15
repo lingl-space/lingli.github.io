@@ -1,8 +1,10 @@
 theme: jekyll-theme-minimal
-
-description: Feel free to bookmark this to keep an eye on my project updates!
 logo: /images/person.png
 title: Welcome to LinZhao's homepage
+description: 
+  - Lin Zhao
+  - Feel free to bookmark this to keep an eye on my project updates!
+
 autor: Lin Zhao
 
 
