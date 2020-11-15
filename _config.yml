@@ -1,44 +1,7 @@
 theme: jekyll-theme-minimal
-title: Welcome to LinZhao's homepage
+
 description: Feel free to bookmark this to keep an eye on my project updates!
 logo: /images/person.png
+title: Welcome to LinZhao's homepage
 autor: Lin Zhao
-about: Windows 10 App Developer
 
-allowsearch: false
-
-enableTags: true
-tagarray: [aricles]
-
-excerpt_separator: "<!--more-->"
-paginate: 35
-per_page: 60
-paginate_path: "/blog/page:num/"
-markdown: kramdown
-kramdown:
-   input: GFM
-   hard_wrap: false
-   math_engine: mathjax
-gems: [jekyll-paginate, jekyll-gist]
-
-# Content Collection
-collections:
-  articles:
-    output: true
-    
-# Content Template
-defaults:
-  - scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      layout: "post"
-      author: "LinZhao"
-      permalink: "/post/:title.html"
-  - scope:
-      path: "_articles"
-      type: "articles"
-    values:
-      layout: "post"
-      author: "LinZhao"
-      permalink: "/article/:title.html"
