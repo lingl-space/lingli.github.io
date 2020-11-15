@@ -5,6 +5,5 @@ logo: /images/person.png
 title: Welcome to LinZhao's homepage
 autor: Lin Zhao
 
-# _config.yml
-animal: pets
-hash: { name: Steve, foo: bar }
+foot-links:
+  email:  linzhao@njust.edu.cn
