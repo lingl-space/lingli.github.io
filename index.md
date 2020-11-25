@@ -77,3 +77,8 @@ Activities in Academic Conferences:
 10.Lin Zhao, Xinbo Gao, Yuan Yuan, Dapeng Tao. Sparse frontal face image synthesis from an arbitrary profile image. Neurocomputing, 2014, 128(3): 466–475.
 
 ### Selected Conference Papers:
+
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
